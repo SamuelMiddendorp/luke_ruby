@@ -1,0 +1,19 @@
+login 
+
+person class:
+    password
+    username
+    exactly, and thats how our application should see it. a user has messages
+    but in the backend and the database its the other way round
+
+    messages
+    email
+    date of birth
+    etc.
+    etc.
+message class:
+    body: actual text
+    amount of retweets?
+    amounts of likes?
+    reference to owner
+    isComment

@@ -1,0 +1,14 @@
+
+
+
+{key = {key=itemtext, value=item_cost}, value = amountofitmes}
+dict is outer dictionary, and you loop trough both its keys and values
+For ruby it is: hash.each do |key, array|
+dictionary.each|key, value|
+    key = {key=itemtext, value=item_cost}
+    cost = key[key.keys[0]]
+    VALUE = amountofitmes
+
+
+{a => b, c => b} where a is a value and b is a value
+a => {"Sponge cake" => 2.00}
